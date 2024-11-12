@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { cn } from "@/lib/utils";
-import { geistVF, poppins } from "./fonts";
+import { poppins } from "./fonts";
 
 
 export const metadata: Metadata = {
