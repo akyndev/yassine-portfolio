@@ -3,7 +3,7 @@
 import { ArrowLeft, ArrowRight } from "lucide-react"
 import { motion, AnimatePresence } from "framer-motion"
 import Image, { StaticImageData } from "next/image"
-import { useCallback, useEffect, useState } from "react"
+import { useEffect, useState } from "react"
 
 type Testimonial = {
   quote: string
